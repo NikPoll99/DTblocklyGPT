@@ -1,0 +1,1 @@
+cd C:\repos\DTblocklyGPT && npm start

@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Bypass -File "C:\repos\DTblocklyGPT\bat\gazebo_bridge.ps1"
